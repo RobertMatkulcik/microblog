@@ -22,3 +22,6 @@ MAIL_PASSWORD = None
 
 # administrator list
 ADMINS = ['robert@matkulcik.eu']
+
+# pagination
+POSTS_PER_PAGE = 3
